@@ -1,0 +1,18 @@
+{
+    "name": "Kogane.RestoreHierarchySearchFilterOnPrefabStageOpened",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f33f27fe16b783847a734925ab6437b1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
